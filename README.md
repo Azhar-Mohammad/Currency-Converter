@@ -1,6 +1,6 @@
-<h1>Currency-Converter</h1><br>
-<h4>Explanation:</h4><br>
-<h4>1.Import the `requests` Library:</h4>
+Certainly! The program you provided is a simple currency converter that allows the user to input a source currency, a target currency, and an amount to convert. It uses the `requests` library to fetch exchange rate data from the Frankfurter API and performs the currency conversion. Here's a step-by-step explanation of the program:
+
+1. **Import the `requests` Library:**
    ```python
    import requests
    ```
